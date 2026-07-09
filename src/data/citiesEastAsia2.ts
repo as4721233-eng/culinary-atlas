@@ -17,7 +17,7 @@ export const eastAsiaCities2: City[] = [
       'Chengdu was named the world\'s first UNESCO City of Gastronomy in 2010. Sichuan cuisine is built on málà — the numbing-spicy combination of Sichuan peppercorns and chili that creates a tingling, buzzing sensation on the lips. Hot pot is a religion here: a vat of bubbling chili oil shared among friends, where you cook your own meats, tofu, and vegetables in the fiery broth. Chengdu\'s teahouse culture and street snacks make it one of China\'s most vibrant food cities.',
     sensoryTags: ['#Málà-numbing', '#Fiery', '#Tingling', '#Complex'],
     flavorProfile: { spice: 98, umami: 82, richness: 75, tanginess: 55 },
-    youtubeId: 'L8mDjv2gQkY',
+    youtubeId: 'MjMXaISO6Gk',
     specialties: [
       {
         name: 'Sichuan Hot Pot',
@@ -100,7 +100,7 @@ export const eastAsiaCities2: City[] = [
       'Penang is consistently ranked Asia\'s best street food city. George Town, its capital, is a UNESCO World Heritage site where Malay, Hokkien Chinese, Tamil Indian, and Peranakan (Baba-Nyonya) cuisines cross-pollinated over 200 years. The result is food that exists nowhere else: char kway teow with wok hei, assam laksa with mackerel and tamarind, and nasi kandar — rice flooded with a dozen curries. A single hawker stall may have a 90-minute queue and serve the same dish for 40 years.',
     sensoryTags: ['#Wok-hei', '#Spicy', '#Tangy', '#Coconut'],
     flavorProfile: { spice: 80, umami: 78, richness: 70, tanginess: 75 },
-    youtubeId: 'mT2r1Z9gH2M',
+    youtubeId: '6UKN1YpVweg',
     specialties: [
       {
         name: 'Char Kway Teow',
@@ -183,7 +183,7 @@ export const eastAsiaCities2: City[] = [
       'Singapore\'s hawker culture was inscribed on UNESCO\'s Intangible Cultural Heritage list in 2020. These open-air food centers house hundreds of stalls, each specializing in one dish, often for decades. The city has the world\'s cheapest Michelin-starred meal — a $3 soya sauce chicken rice from Hawker Chan. Singapore\'s food is a fusion of Chinese, Malay, and Indian traditions, producing dishes found nowhere else: Hainanese chicken rice, chili crab, and laksa.',
     sensoryTags: ['#Hawker-style', '#Chili-hot', '#Coconut', '#Comforting'],
     flavorProfile: { spice: 70, umami: 80, richness: 72, tanginess: 65 },
-    youtubeId: '3JcFy7wQy2E',
+    youtubeId: 'OdbSrx4l8rM',
     specialties: [
       {
         name: 'Hainanese Chicken Rice',
@@ -266,7 +266,7 @@ export const eastAsiaCities2: City[] = [
       'Osaka is Japan\'s street food soul. The city has a saying — kuidaore — meaning "eat until you drop (and can\'t stand)." Unlike Tokyo\'s precision, Osaka celebrates bold, hearty, affordable food: takoyaki balls blistering from the grill, okonomiyaki sizzling on tabletop iron plates, and kushikatsu — deep-fried skewers dunked in shared sauce. The Dotonbori district is a neon-lit canyon of food signs, and Kuromon market is the pantry that feeds the city.',
     sensoryTags: ['#Street-grilled', '#Crispy', '#Savory', '#Comforting'],
     flavorProfile: { spice: 25, umami: 88, richness: 78, tanginess: 55 },
-    youtubeId: 'mT2r1Z9gH2M',
+    youtubeId: '3zLvByt52go',
     specialties: [
       {
         name: 'Takoyaki',
