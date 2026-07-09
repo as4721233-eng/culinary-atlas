@@ -9,9 +9,9 @@ export const originalCities: City[] = [
     region: 'Uttar Pradesh',
     tagline: 'The City of Nawabs & Slow-Cooked Soul',
     heroImage:
-      'https://images.unsplash.com/photo-1587578135899-7036d0fa25e6?auto=format&fit=crop&w=1920&q=80',
+      'https://images.pexels.com/photos/12737656/pexels-photo-12737656.jpeg?auto=compress&cs=tinysrgb&w=1200',
     cardImage:
-      'https://images.unsplash.com/photo-1587578135899-7036d0fa25e6?auto=format&fit=crop&w=1920&q=80',
+      'https://images.pexels.com/photos/12737656/pexels-photo-12737656.jpeg?auto=compress&cs=tinysrgb&w=1200',
      
     shortDescription:
       'Where Mughal grandeur meets Awadhi patience — biryani layered in dum, kebabs that melt before you chew.',
