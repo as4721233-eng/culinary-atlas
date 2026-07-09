@@ -17,7 +17,7 @@ export const africaCities: City[] = [
       'Cape Town\'s food is a collision of African, Dutch, Malay, and Indian traditions. The braai (barbecue) is South Africa\'s national social ritual — meat grilled over wood, never gas. Cape Malay cuisine, born of enslaved people brought from Indonesia and Malaysia by the Dutch East India Company, gave the city its signature bobotie (spiced mince bake) and aromatic curries. The Winelands surrounding Cape Town produce some of the Southern Hemisphere\'s best wines.',
     sensoryTags: ['#Wood-grilled', '#Cape-Malay-spiced', '#Braai', '#Fruity'],
     flavorProfile: { spice: 55, umami: 72, richness: 70, tanginess: 60 },
-    youtubeId: 'L8mDjv2gQkY',
+    youtubeId: 'jM80u2ZtkI8',
     specialties: [
       {
         name: 'Bobotie',
@@ -100,7 +100,7 @@ export const africaCities: City[] = [
       'Lagos is West Africa\'s food capital — a city of 20 million where the cuisine is as loud and bold as its music scene. Jollof rice, the signature dish, is a matter of national pride (the "jollof wars" between Nigeria and Ghana are a recurring diplomatic joke). Suya — spicy grilled meat skewers rubbed with yaji (a peanut-chili spice blend) — is the street food king, sold from open charcoal grills after dark. Lagos\'s bukas (street canteens) serve pounded yam with egusi soup at all hours.',
     sensoryTags: ['#Chili-bold', '#Peanut-spiced', '#Smoky-grilled', '#Party-food'],
     flavorProfile: { spice: 88, umami: 75, richness: 65, tanginess: 60 },
-    youtubeId: 'mT2r1Z9gH2M',
+    youtubeId: 'SnyKLOgtDxg',
     specialties: [
       {
         name: 'Jollof Rice',
@@ -183,7 +183,7 @@ export const africaCities: City[] = [
       'Delhi is India\'s street food capital — a city where Mughal-era cuisine meets Punjabi gusto and South Indian spice. Old Delhi (Chandni Chowk) is a maze of food lanes: paratha gali (paratha street) where each shop stuffs a different filling, karim\'s serving mughlai curries since 1913, and chaat walls selling gol gappa (pani puri) by the dozen. Delhi\'s chaat — a category of tangy, crunchy, sweet-spicy snacks — is a culinary philosophy unto itself.',
     sensoryTags: ['#Chaat-tangy', '#Mughal-rich', '#Stuffed-fried', '#Spicy'],
     flavorProfile: { spice: 85, umami: 80, richness: 78, tanginess: 82 },
-    youtubeId: '3JcFy7wQy2E',
+    youtubeId: 'qc7iiJE027o',
     specialties: [
       {
         name: 'Chole Bhature',
