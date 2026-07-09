@@ -17,7 +17,7 @@ export const americasCities: City[] = [
       'Mexico City (CDMX) is one of the world\'s great street food cities — UNESCO recognized Mexican cuisine as Intangible Cultural Heritage in 2010. The city\'s taco culture is its heartbeat: al pastor pork shaved from a vertical spit (adapted from Lebanese shawarma), suadero (brisket), and cochinita pibil. Tortillas are pressed by hand from nixtamalized corn, a 3,500-year-old Mesoamerican process.',
     sensoryTags: ['#Street-tacos', '#Chili-hot', '#Corn-ground', '#Citrus'],
     flavorProfile: { spice: 85, umami: 78, richness: 65, tanginess: 70 },
-    youtubeId: 'L8mDjv2gQkY',
+    youtubeId: 'OO9kSxcT9Rg',
     specialties: [
       {
         name: 'Tacos al Pastor',
@@ -100,7 +100,7 @@ export const americasCities: City[] = [
       'Lima is South America\'s culinary capital, home to 3 of the world\'s top 50 restaurants (Central, Maido, Astrid y Gastón). Peruvian cuisine is a unique fusion of indigenous Inca ingredients (potatoes, corn, quinoa), Spanish colonial technique, African influence, Chinese immigration (chifa), and Japanese immigration (Nikkei). The result is cuisine found nowhere else: ceviche cured in lime and ají, lomo saltado stir-fried in a wok.',
     sensoryTags: ['#Ceviche-fresh', '#Citrus-cured', '#Nikkei-fusion', '#Ají-spiced'],
     flavorProfile: { spice: 65, umami: 82, richness: 55, tanginess: 88 },
-    youtubeId: 'mT2r1Z9gH2M',
+    youtubeId: 'Il3NjMlQ_dk',
     specialties: [
       {
         name: 'Ceviche',
@@ -183,7 +183,7 @@ export const americasCities: City[] = [
       'New Orleans is America\'s most distinctive food city — a place where French, Spanish, African, and Caribbean cuisines fused over 300 years into Creole and Cajun traditions. Gumbo, a slow-rouxed stew, is the city\'s dish: each family\'s recipe is a lineage. Po\' boys — overstuffed sandwiches on French bread — were born to feed striking streetcar workers.',
     sensoryTags: ['#Roux-based', '#Creole-spiced', '#Fried', '#Sweet'],
     flavorProfile: { spice: 60, umami: 78, richness: 88, tanginess: 45 },
-    youtubeId: '3JcFy7wQy2E',
+    youtubeId: 'Y8KRds6W6aw',
     specialties: [
       {
         name: 'Gumbo',
@@ -266,71 +266,9 @@ export const americasCities: City[] = [
       'New York is the world\'s most diverse food city — 800+ languages and every cuisine on Earth. The dollar slice is a civic institution, the bagel is boiled-then-baked to a chewy perfection found nowhere else (blame the water), and Katz\'s pastrami has been hand-carved since 1888. From Dominican chimichurri carts in Washington Heights to hand-pulled noodles in Flushing\'s Chinatown, New York is a culinary atlas in one borough-spanning grid.',
     sensoryTags: ['#Pizza-foldable', '#Deli-stacked', '#Bagel-boiled', '#Global-fusion'],
     flavorProfile: { spice: 40, umami: 75, richness: 72, tanginess: 60 },
-    youtubeId: 'mT2r1Z9gH2M',
+    youtubeId: 'CfjWHzQX9Xk',
     specialties: [
       {
         name: 'New York Pizza Slice',
         description:
-          'A thin, foldable slice with a crisp-chewy crust — cheese to the edge, eaten standing up, folded lengthwise. The city\'s most democratic meal.',
-        image:
-          'https://images.pexels.com/photos/31706370/pexels-photo-31706370.jpeg?auto=compress&cs=tinysrgb&w=1200',
-        sensoryTags: ['#Foldable', '#Crisp-chewy', '#Street-eaten'],
-        originStory:
-          'New York pizza was born in 1905 when Gennaro Lombardi opened Lombardi\'s on Spring Street — America\'s first pizzeria — adapting Neapolitan pizza for coal-oven baking. The result: a larger, thinner, foldable slice with a crust that\'s crisp on the bottom and chewy within.',
-      },
-      {
-        name: 'Pastrami on Rye',
-        description:
-          'Hand-carved, peppercorn-crusted pastrami piled inches high on rye bread with mustard — Katz\'s has been curing it since 1888.',
-        image:
-          'https://images.pexels.com/photos/31706370/pexels-photo-31706370.jpeg?auto=compress&cs=tinysrgb&w=1200',
-        sensoryTags: ['#Peppery', '#Smoky', '#Stacked-high'],
-        originStory:
-          'Pastrami arrived with Romanian-Jewish immigrants in the 1880s. The Romanian "pastramă" was adapted by New York delis: brined, seasoned with coriander and black pepper, smoked, and steamed. Katz\'s Delicatessen, open since 1888, cures pastrami for 30 days and hand-carves each sandwich.',
-      },
-      {
-        name: 'New York Bagel',
-        description:
-          'A bagel boiled in water before baking — dense, chewy, with a crisp crust — topped with cream cheese and lox. The water theory.',
-        image:
-          'https://images.pexels.com/photos/31706370/pexels-photo-31706370.jpeg?auto=compress&cs=tinysrgb&w=1200',
-        sensoryTags: ['#Boiled-then-baked', '#Chewy', '#Dense'],
-        originStory:
-          'Bagels came to New York with Eastern European Jewish immigrants in the late 1800s. The New York bagel is distinguished by boiling before baking — a process that gelatinizes the starch and creates the signature chewy interior and crisp crust. The "New York water theory" holds that the city\'s soft tap water produces superior gluten.',
-      },
-    ],
-    historicalLore: [
-      {
-        era: '1880s–1920s',
-        title: 'The Great Immigration Food Wave',
-        body: 'Between 1880 and 1924, 2.4 million immigrants — mostly Italian, Jewish, and Eastern European — passed through Ellis Island into New York. Each brought their cuisine: pizza, bagels, pastrami, knishes. These foods were survival tools that evolved into "New York" food.',
-      },
-      {
-        era: '1905',
-        title: 'The First American Pizza',
-        body: 'Gennaro Lombardi opened Lombardi\'s on Spring Street in 1905 — America\'s first licensed pizzeria. He adapted Neapolitan pizza for New York\'s coal ovens: larger, thinner, foldable. The slice (not the whole pie) became the unit of New York pizza in the 1940s.',
-      },
-      {
-        era: 'Modern Era',
-        title: 'The Borough Food Atlas',
-        body: 'New York\'s 800+ languages map onto its food. Flushing\'s Chinatown has the best hand-pulled noodles outside China. Washington Heights sells Dominican chimichurri burgers. Jackson Heights has Colombian arepas, Tibetan momos, and Indian chaat on one block. New York is the only city where every cuisine on Earth coexists.',
-      },
-    ],
-    legends: [
-      {
-        name: 'Jake Dell',
-        title: 'The Keeper of Katz\'s',
-        era: 'Modern',
-        bio: 'Third-generation owner of Katz\'s Delicatessen, the 1888 Lower East Side pastrami temple. He preserves the hand-carving, the ticket system, and the 30-day curing process.',
-        legacy: 'Katz\'s has survived 137 years by refusing to mechanize. Pastrami is still cured for 30 days, hand-carved, and piled inches high. The ticket system (lose it and pay $50) is iconic.',
-        image:
-          'https://images.pexels.com/photos/31706370/pexels-photo-31706370.jpeg?auto=compress&cs=tinysrgb&w=800',
-      },
-    ],
-    funFacts: [
-      'New York pizza was born in 1905 at Lombardi\'s — America\'s first pizzeria.',
-      'Katz\'s Delicatessen has hand-carved pastrami since 1888 — 137 years of the same recipe.',
-      'New York bagels are boiled before baking — the "water theory" blames/credits NYC tap water.',
-    ],
-  },
-];
+          'A thin, foldable slice with a
