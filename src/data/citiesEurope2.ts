@@ -17,7 +17,7 @@ export const europeCities2: City[] = [
       'San Sebastián (Donostia) has the highest concentration of Michelin stars per capita on Earth — 3 three-star restaurants in a city of 186,000. But its food soul is the txikiteo: a pintxos bar crawl through the Parte Vieja (old town), where you eat one small bite and drink one txakoli (sparkling white wine) at each bar, leaving your napkins on the floor as proof of your visit.',
     sensoryTags: ['#Pintxos', '#Basque', '#Michelin-dense', '#Seafood'],
     flavorProfile: { spice: 25, umami: 80, richness: 70, tanginess: 65 },
-    youtubeId: 'mT2r1Z9gH2M',
+    youtubeId: 'UrfVd6CUcY4',
     specialties: [
       {
         name: 'Gilda',
@@ -100,7 +100,7 @@ export const europeCities2: City[] = [
       'Lisbon\'s food is Atlantic-driven — grilled sardines, salt cod (bacalhau), and the pastel de nata, the custard tart that has become a global pastry icon. The city\'s cafés and pastelarias (pastry shops) are on every corner, and the original Pastéis de Belém has been baking tarts from the same 1837 secret recipe for nearly 200 years.',
     sensoryTags: ['#Custard-sweet', '#Grilled-seafood', '#Cinnamon', '#Atlantic'],
     flavorProfile: { spice: 20, umami: 72, richness: 75, tanginess: 65 },
-    youtubeId: '3JcFy7wQy2E',
+    youtubeId: 'FmDARXsO1Dg',
     specialties: [
       {
         name: 'Pastel de Nata',
@@ -183,7 +183,7 @@ export const europeCities2: City[] = [
       'Athens\' food is Mediterranean at its most elemental — olive oil, lemon, oregano, and fire. The souvlaki stand is the city\'s heartbeat: pork skewers grilled over charcoal, wrapped in pita with tzatziki, tomato, and onion, eaten standing at midnight. Greek cuisine claims the world\'s oldest continuous culinary tradition — olive oil has been pressed in Greece for 5,000 years, feta for 3,000.',
     sensoryTags: ['#Grilled', '#Olive-oiled', '#Lemony', '#Mediterranean'],
     flavorProfile: { spice: 30, umami: 70, richness: 60, tanginess: 78 },
-    youtubeId: 'L8mDjv2gQkY',
+    youtubeId: 'ZOguslnn0dM',
     specialties: [
       {
         name: 'Souvlaki',
