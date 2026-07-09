@@ -17,7 +17,7 @@ export const eastAsiaCities: City[] = [
       'Bangkok is a city that cooks in public. From floating markets to soi-side carts, the wok is a stage and the cook a performer. Thai cuisine is built on the principle of balancing four pillars — sweet, sour, salty, and spicy — in every dish. A single spoonful of pad kra pao should make you sweat, smile, and reach for more, all at once. This is food engineered for addiction.',
     sensoryTags: ['#Wok-fired', '#Spicy', '#Sweet-and-sour', '#Aromatic'],
     flavorProfile: { spice: 90, umami: 75, richness: 60, tanginess: 85 },
-    youtubeId: '3JcFy7wQy2E',
+    youtubeId: 'MY3Qy6vAbZQ',
     specialties: [
       {
         name: 'Pad Thai',
@@ -100,7 +100,7 @@ export const eastAsiaCities: City[] = [
       'Tokyo holds the most Michelin stars of any city on Earth, yet its greatest food lives in basement ramen shops and predawn fish auctions. Japanese cuisine is built on restraint — the belief that perfection is the absence of the unnecessary. A bowl of ramen can take 18 hours to make; a single piece of nigiri sushi a lifetime to master. Tokyo is where umami, the fifth taste, was identified and named.',
     sensoryTags: ['#Umami-bomb', '#Precise', '#Comforting', '#Brothy'],
     flavorProfile: { spice: 30, umami: 98, richness: 70, tanginess: 40 },
-    youtubeId: 'mT2r1Z9gH2M',
+    youtubeId: 'An6cuIMTgxo',
     specialties: [
       {
         name: 'Tonkotsu Ramen',
@@ -183,7 +183,7 @@ export const eastAsiaCities: City[] = [
       'Seoul\'s food runs on fermentation and fire. Korean cuisine is one of the world\'s most fermented — kimchi, gochujang, doenjang (soybean paste), and makgeolli all depend on months of patient microbial transformation. At Korean BBQ joints, the table is the kitchen: grills are built into the tables, and diners cook their own samgyeopsal (pork belly) wrapped in lettuce with ssamjang and garlic. The energy is communal, loud, and unapologetically spicy.',
     sensoryTags: ['#Fermented', '#Spicy', '#Table-grilled', '#Garlicky'],
     flavorProfile: { spice: 82, umami: 85, richness: 65, tanginess: 72 },
-    youtubeId: 'L8mDjv2gQkY',
+    youtubeId: 'ljf8yxDQ1d0',
     specialties: [
       {
         name: 'Samgyeopsal (Korean BBQ)',
@@ -266,7 +266,7 @@ export const eastAsiaCities: City[] = [
       'Hanoi\'s cuisine is the quiet, precise north to Saigon\'s bold, sweet south. Northern Vietnamese food uses less heat and sugar, letting the purity of each ingredient speak. Pho, the national dish, originated here in the early 20th century — a fragrant beef broth simmered for hours with charred ginger, star anise, and cinnamon. Hanoi\'s old quarter is a maze of 36 streets, each historically named for the single craft — and dish — it sold.',
     sensoryTags: ['#Fragrant', '#Brothy', '#Fresh', '#Herbal'],
     flavorProfile: { spice: 45, umami: 78, richness: 55, tanginess: 60 },
-    youtubeId: '3JcFy7wQy2E',
+    youtubeId: 'Wc_F_BesIT0',
     specialties: [
       {
         name: 'Pho Bo',
