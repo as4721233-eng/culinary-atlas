@@ -1,4 +1,5 @@
 import { useCallback, useState } from 'react';
+import { SpeedInsights } from '@vercel/speed-insights/react';
 import { Header } from './components/Header';
 import { Hero } from './components/Hero';
 import { ExplorerGrid } from './components/ExplorerGrid';
@@ -124,6 +125,9 @@ export default function App() {
         entries={entries}
         loading={lbLoading}
       />
+
+      {/* Vercel Speed Insights */}
+      <SpeedInsights />
     </div>
   );
 }
