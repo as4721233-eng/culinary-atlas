@@ -17,7 +17,7 @@ export const europeCities: City[] = [
       'Bologna is the food capital of Italy. The city is nicknamed "La Grassa" (The Fat One) for its rich, pork-driven cuisine. Emilia-Romagna, its region, is Italy\'s culinary engine: Parmigiano-Reggiano, balsamic vinegar, and prosciutto di Parma all come from within 60 miles. Bologna\'s ragù — slow-cooked meat sauce — became "Bolognese" worldwide, though the real version bears little resemblance to what you\'ve had.',
     sensoryTags: ['#Rich', '#Slow-cooked', '#Hand-rolled', '#Comforting'],
     flavorProfile: { spice: 15, umami: 82, richness: 92, tanginess: 40 },
-    youtubeId: 'mT2r1Z9gH2M',
+    youtubeId: '51jow8wJ0JA',
     specialties: [
       {
         name: 'Tagliatelle al Ragù',
@@ -183,7 +183,7 @@ export const europeCities: City[] = [
       'Lyon is France\'s official gastronomic capital, a title earned through centuries of culinary excellence and codified by Paul Bocuse, the century\'s most famous chef. The city\'s bouchons — traditional taverns — serve hearty pork-driven cuisine born from the silk workers (canuts) who needed cheap, filling food. The nearby Beaujolais and Côtes du Rhône vineyards provide the wine.',
     sensoryTags: ['#Bistro-classic', '#Buttery', '#Pork-driven', '#Wine-paired'],
     flavorProfile: { spice: 20, umami: 80, richness: 95, tanginess: 45 },
-    youtubeId: 'L8mDjv2gQkY',
+    youtubeId: 'fsFtfZT-6Hc',
     specialties: [
       {
         name: 'Coq au Vin',
