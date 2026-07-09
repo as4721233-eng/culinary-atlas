@@ -19,7 +19,7 @@ export const originalCities: City[] = [
       'Lucknow, the capital of Awadh, is a city where cooking is an act of devotion. The Nawabs transformed cuisine into courtly art, pioneering the dum pukht technique — sealing pots with dough and slow-cooking over embers for hours so every spice bloomed without ever boiling away. To eat in Lucknow is to taste centuries of restraint, poetry, and stubborn perfectionism.',
     sensoryTags: ['#Melt-in-the-mouth', '#Aromatic', '#Slow-cooked', '#Royal'],
     flavorProfile: { spice: 70, umami: 88, richness: 95, tanginess: 35 },
-    youtubeId: '3JcFy7wQy2E',
+    youtubeId: 'gZuiK5J0_hM',
     specialties: [
       {
         name: 'Tunday Kebabi',
@@ -111,7 +111,7 @@ export const originalCities: City[] = [
       'Naples is a city that cooks with its hands and shouts with its heart. Here, pizza is not food — it is identity, declared a UNESCO Intangible Heritage. The volcanic soil of Mount Vesuvius feeds the sweet, low-acid San Marzano tomato; the buffalo of Campania give mozzarella di bufala its milky tang. Neapolitan cuisine is defiantly simple, built on the conviction that two perfect ingredients beat twenty good ones.',
     sensoryTags: ['#Wood-fired', '#Crispy-chewy', '#Tangy', '#Simple'],
     flavorProfile: { spice: 25, umami: 72, richness: 68, tanginess: 85 },
-    youtubeId: 'mT2r1Z9gH2M',
+    youtubeId: 'r9WCLLTOEeM',
     specialties: [
       {
         name: 'Pizza Margherita',
@@ -203,7 +203,7 @@ export const originalCities: City[] = [
       'Oaxaca is a state where cuisine is layered like its geography — valleys, mountains, and coast each contributing ingredients to one of the world\'s deepest food traditions. The "seven moles" are really hundreds, each a complex architecture of chiles, seeds, and spice ground on a metate. Mezcal, distilled from smoked agave hearts in clay or copper, carries the taste of the land itself. To eat in Oaxaca is to taste a civilization that never stopped cooking.',
     sensoryTags: ['#Smoky', '#Spicy', '#Earthy', '#Complex'],
     flavorProfile: { spice: 88, umami: 80, richness: 75, tanginess: 70 },
-    youtubeId: 'L8mDjv2gQkY',
+    youtubeId: 'vk9jDCDWa98',
     specialties: [
       {
         name: 'Mole Negro',
@@ -233,7 +233,7 @@ export const originalCities: City[] = [
           'https://images.pexels.com/photos/1283219/pexels-photo-1283219.jpeg?auto=compress&cs=tinysrgb&w=1200',
         sensoryTags: ['#Smoky', '#Earthy', '#Herbal'],
         originStory:
-          'Mezcal predates tequila by centuries — the Spanish brought distillation, but indigenous Oaxacans had already roasted agave hearts in pit ovens for pulque. The smoke of the pit, the wild yeast of the palenque, and the hands of the mezcalero make each batch unrepeatable. "Para todo mal, mezcal; para todo bien, también."',
+          'Mezcal predates predates tequila by centuries — the Spanish brought distillation, but indigenous Oaxacans had already roasted agave hearts in pit ovens for pulque. The smoke of the pit, the wild yeast of the palenque, and the hands of the mezcalero make each batch unrepeatable. "Para todo mal, mezcal; para todo bien, también."',
       },
     ],
     historicalLore: [
